@@ -12,7 +12,7 @@ I’m someone who loves solving problems, constantly learning, and pushing my li
 
   ⏳ A believer in patience – Great things take time, and learning is a journey.
 
-Life is all about learning, exploring, and staying passionate. Whether it's code, music, or philosophy, I
+Life is all about learning, exploring, and staying passionate. Whether it's code, music, or philosophy
 
 ![](https://github-readme-stats.vercel.app/api?username=lamloi1109&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
